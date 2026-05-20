@@ -1,0 +1,44 @@
+【看不懂代码？按这个做，3 选 1】
+
+══════════════════════════════════════
+方法一：双击「一键上传.bat」（推荐先试）
+══════════════════════════════════════
+1. 找到文件夹里的「一键上传.bat」
+2. 双击
+3. 如果弹出浏览器，登录 GitHub 并点允许
+4. 看到「上传成功」后，按提示在网页选 Pages
+5. 打开 https://Mengliio.github.io/520-love/
+
+══════════════════════════════════════
+方法二：用 GitHub Desktop（很多人装了这个）
+══════════════════════════════════════
+1. 打开 GitHub Desktop
+2. 菜单「文件」→「添加本地仓库」
+3. 选文件夹：
+   C:\Users\1\.cursor\projects\empty-window\520-love
+4. 若提示「不是 git 仓库」，点「创建仓库」
+5. 右上角点「发布仓库」
+   - 名字：520-love
+   - 不要勾「保持私有」（要公开才能被搜到）
+6. 发布完成后，浏览器打开：
+   https://github.com/Mengliio/520-love/settings/pages
+   Source 选 GitHub Actions 或 main 分支
+
+══════════════════════════════════════
+方法三：纯网页拖拽（不用装任何东西）
+══════════════════════════════════════
+1. 浏览器打开：https://github.com/Mengliio/520-love
+2. 点「uploading an existing file」或「Add file」→「Upload files」
+3. 打开文件夹 C:\Users\1\.cursor\projects\empty-window\520-love
+4. 选中这些（Ctrl+A 全选后，可跳过 .git 若有）：
+   index.html、README.md、robots.txt、sitemap.xml
+   site.webmanifest、.nojekyll、.github 文件夹、assets 文件夹
+5. 拖到网页里，等上传完，点「Commit changes」
+6. 再去 Settings → Pages 开启网站
+
+══════════════════════════════════════
+你的网站地址（上线后）
+══════════════════════════════════════
+https://Mengliio.github.io/520-love/
+
+有问题把报错截图发给帮你的人即可。

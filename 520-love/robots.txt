@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Mengliio.github.io/520-love/sitemap.xml
